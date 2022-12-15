@@ -1,0 +1,18 @@
+input,label{
+    display: block;
+    width: 10rem;
+}
+body{
+background-color: steelblue;
+
+color: white;
+}
+table{
+    margin-top: 2rem;
+}
+#btnCalcular{
+    margin-top: 1rem;
+}
+thead,tbody{
+    border: 1px solid black;
+}
